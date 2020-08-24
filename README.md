@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I just moved my codes to GitLab Fysik SU, please login with your SU account at gitlab.fysik.su.se to browse my codes.
+I just moved my codes to GitLab Fysik SU, for more info, please email me.
 
 <!--
 **mingchaoji/mingchaoji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
